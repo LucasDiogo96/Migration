@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Migration.Sample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CONN_STRING": "PUT_YOUR_CONNECTION_HERE"
+      }
+    }
+  }
+}
